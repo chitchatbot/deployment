@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: ccb-con-back
-        image: 571698711201.dkr.ecr.us-east-1.amazonaws.com/ccb-backend:471
+        image: 571698711201.dkr.ecr.us-east-1.amazonaws.com/ccb-backend:472
         ports:
         - containerPort: 55500
 ---
